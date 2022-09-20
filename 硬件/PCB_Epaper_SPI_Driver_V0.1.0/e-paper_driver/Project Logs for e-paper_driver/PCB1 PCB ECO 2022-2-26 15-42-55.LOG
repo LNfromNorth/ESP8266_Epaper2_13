@@ -1,0 +1,23 @@
+Added Component: Designator=J?(PFC26)
+Added Pin To Net: NetName=GDR Pin=J?-3
+Added Pin To Net: NetName=NetC1_2 Pin=J?-4
+Added Pin To Net: NetName=RESE Pin=J?-5
+Added Pin To Net: NetName=NetC2_2 Pin=J?-6
+Added Pin To Net: NetName=BS Pin=J?-9
+Added Pin To Net: NetName=P24 Pin=J?-10
+Added Pin To Net: NetName=P17 Pin=J?-11
+Added Pin To Net: NetName=P25 Pin=J?-12
+Added Pin To Net: NetName=P CEO Pin=J?-13
+Added Pin To Net: NetName=P SCK Pin=J?-14
+Added Pin To Net: NetName=P MOSI Pin=J?-15
+Added Pin To Net: NetName=+3.3 Pin=J?-16
+Added Pin To Net: NetName=+3.3 Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=NetC5_2 Pin=J?-19
+Added Pin To Net: NetName=NetC6_2 Pin=J?-20
+Added Pin To Net: NetName=NetC8_2 Pin=J?-21
+Added Pin To Net: NetName=PREVGH Pin=J?-22
+Added Pin To Net: NetName=NetC10_2 Pin=J?-23
+Added Pin To Net: NetName=PREVGL Pin=J?-24
+Added Pin To Net: NetName=NetC12_2 Pin=J?-25
+Added Member To Class: ClassName=Sheet1 Member=Component J? PFC26

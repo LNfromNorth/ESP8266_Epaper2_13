@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[NewOver.TXT]
+   Generated File[NewOver.LDP]
+   Generated File[NewOver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:10:24 On 2022/2/27

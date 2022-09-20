@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GDR Pin=Q1-1
+Removed Pin From Net: NetName=RESE Pin=Q1-2
+Removed Pin From Net: NetName=NetC7_2 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23-3M New Footprint=HDR2.54-M-LS-2x20P
+Change Component Comment : Designator=Q1 Old Comment=S9014 New Comment=Header 2X11
+Change Component Designator: OldDesignator=Q1 NewDesignator=JP1
+Change component parameters: Designator = "Q1" ("JP1"); Footprint = "SOT23-3M"; UniqueID = "\MOVETBFT" ("\MOVETBFT")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "20*2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID:黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店现金奖励20~200元"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(si1308)
+Added Pin To Net: NetName=NetC7_2 Pin=Q?-1
+Added Pin To Net: NetName=RESE Pin=Q?-2
+Added Pin To Net: NetName=GDR Pin=Q?-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q? si1308
