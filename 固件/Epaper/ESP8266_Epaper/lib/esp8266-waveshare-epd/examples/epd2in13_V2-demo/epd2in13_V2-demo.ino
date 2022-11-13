@@ -30,7 +30,7 @@ void setup()
   Paint_SetMirroring(MIRROR_HORIZONTAL); //
   Paint_Clear(WHITE);
 
-#if 1   //show image for array    
+#if 1   //show image for array
   printf("show image for array\r\n");
   Paint_SelectImage(BlackImage);
   Paint_Clear(WHITE);
